@@ -9,7 +9,7 @@ showInfo = (data)->
     text = advices[random()]
     shellop = (error, stdout, stderr) ->
     exec 'notify-send '+'\"'+text+'\"', shellop
-  exec 'notify-send Great Fucking Startup Advice'
+  exec 'notify-send "Great Fucking Startup Advice"'
   setInterval show, 6000
 
 url = 'https://docs.google.com/spreadsheets/d/16y6-IWK996t0ILL5YUKvHgXEISiMWNAP7HwhV4869no/pubhtml'

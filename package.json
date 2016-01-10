@@ -1,8 +1,11 @@
 {
   "name": "gfsa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A desktop notification Utility for 'Great Fucking Startup Advice' ",
-  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "gfsa": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
