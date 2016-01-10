@@ -1,0 +1,27 @@
+{
+  "name": "gfsa",
+  "version": "1.0.0",
+  "description": "A desktop notification Utility for 'Great Fucking Startup Advice' ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iostreamer-X/gfsa.git"
+  },
+  "keywords": [
+    "startup",
+    "advice"
+  ],
+  "author": "iostreamer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iostreamer-X/gfsa/issues"
+  },
+  "homepage": "https://github.com/iostreamer-X/gfsa#readme",
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "tabletop": "^1.4.2"
+  }
+}
