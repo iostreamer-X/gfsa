@@ -5,6 +5,8 @@ Every 6 seconds, you will be given some great fucking advice about startups.
 In case you thought going to the fucking site and swiping was fucking boring and hard, this
 app will notify you regularly what you'd miss if you don't go to the fucking site.
 
+**Uses 'notify-send', so not for Windows**
+
 # Inspiration
 http://greatfuckingstartupadvice.com/
 
